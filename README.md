@@ -1,5 +1,5 @@
 # question5
-Text classification on consumer complaint data
+Text classification on consumer complaint data.
 The dataset has been accessed from here: https://catalog.data.gov/dataset/consumer-complaint-database
 
 Data Exploration:
