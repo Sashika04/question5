@@ -50,3 +50,5 @@ The models were evaluated against validation sets and also tested against new un
 <img width="463" alt="MNB" src="https://github.com/user-attachments/assets/4c1bcaec-b5be-46e2-b12b-8cb203bee596" />
 <img width="463" alt="Ls" src="https://github.com/user-attachments/assets/fb388981-be8d-4142-bbb2-2fd61173a1e6" />
 
+predictions:
+<img width="463" alt="Screenshot 2025-06-11 at 2 30 03 AM" src="https://github.com/user-attachments/assets/f8a3e688-ee5d-4500-b662-05de772f859f" />
